@@ -1,6 +1,6 @@
 # PUSHNOTIF
 
-Python cli to send push nofifications using (Pushover)[https://pushover.net]
+Python cli to send push nofifications using [Pushover](https://pushover.net)
 
 ## Installation
 
@@ -14,7 +14,7 @@ Create a `.env` file in this directory and add this info:
 - USER_KEY=INSERTYOURUSERKEYHERE
 - APP_KEY=INSERTYOURAPPKEYHERE
 
-You can find your user key on the Pushover home page. To get an app key you'll need to (register an application)[https://pushover.net/apps/build] with Pushover
+You can find your user key on the Pushover home page. To get an app key you'll need to [register an application](https://pushover.net/apps/build) with Pushover
 
 ## Sending a push notification
 ```
