@@ -1,4 +1,4 @@
-# PUSHNOTIF
+# Pushnotif
 
 Python cli to send push nofifications using [Pushover](https://pushover.net)
 
